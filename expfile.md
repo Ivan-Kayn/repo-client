@@ -1,0 +1,1 @@
+File creato per branch diverso dal main/master su std.
